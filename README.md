@@ -1,16 +1,55 @@
-## Hi there 👋
+# Adithya
 
-<!--
-**Adithya27-ai/Adithya27-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student (AI & Machine Learning) with a strong interest in
+software development, artificial intelligence, and building scalable applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Programming Languages**
+- Python, Java, C, JavaScript
+
+**Web Technologies**
+- HTML, CSS, React, Node.js
+
+**Artificial Intelligence**
+- Machine Learning, Natural Language Processing, Data Analysis
+
+**Tools & Platforms**
+- Git, GitHub, Linux, VS Code
+
+---
+
+## Projects
+
+**E-Pass AI Chatbot**  
+AI-driven chatbot designed to provide complete information and application support for
+e-pass scholarships. Integrated with OpenAI for intelligent responses.
+
+**Natural Language Processing Projects**  
+Implemented text classification, sentiment analysis, and language processing models as part
+of academic and self-learning projects.
+
+**Web Development Projects**  
+Designed and developed responsive, user-focused web applications following modern UI and
+best coding practices.
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## Contact
+
+- LinkedIn: *(add your profile link)*
+- Email: *(professional email)*
+
+---
+
+Focused on continuous learning, writing clean code, and contributing to meaningful projects.
