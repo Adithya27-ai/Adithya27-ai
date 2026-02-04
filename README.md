@@ -47,8 +47,8 @@ best coding practices.
 
 ## Contact
 
-- LinkedIn: *(add your profile link)*
-- Email: *(professional email)*
+- LinkedIn: *(https://www.linkedin.com/in/adithya-nagula-614217380?trk=contact-info)*
+- Email: *(adithyanagula2@gmail.com)*
 
 ---
 
